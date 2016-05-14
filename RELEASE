@@ -1,0 +1,2 @@
+Spark 1.6.2-SNAPSHOT (git revision 7a02c44) built for Hadoop 2.6.0
+Build flags: -Pyarn -Phadoop-2.6 -Dscala-2.11 -DskipTests
